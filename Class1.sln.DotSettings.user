@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c0c6326_002D8eb6_002D4e70_002Db9b8_002D0d0b04f13faf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B69C8EB-DFF2-42DC-9A0C-66B3BAC21BD4::net6.0::Task1.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8DB38205-62C7-48A3-A4EB-0580959C8239::net6.0::Task2.Tests.Min3Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8DB38205-62C7-48A3-A4EB-0580959C8239::net6.0::Task2.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task3.Tests.FTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task3.Tests.NumberOfDaysTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task3.Tests.Rotate2Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task3.Tests.AgeDescriptionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B46F4539-75FC-4AC2-A21D-DF5DA0FB6453::net6.0::Task4.Tests.TestPrintFrame2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B46F4539-75FC-4AC2-A21D-DF5DA0FB6453::net6.0::Task4.Tests.TestPrintFrame1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B46F4539-75FC-4AC2-A21D-DF5DA0FB6453::net6.0::Task4.Tests.TestGcd&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B46F4539-75FC-4AC2-A21D-DF5DA0FB6453::net6.0::Task4.Tests.TestExpTaylor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::76906F63-9431-4C53-A845-DD8FE3390AB8::net6.0::Task5.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::76906F63-9431-4C53-A845-DD8FE3390AB8::net6.0::Task5.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::76906F63-9431-4C53-A845-DD8FE3390AB8::net6.0::Task5.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::76906F63-9431-4C53-A845-DD8FE3390AB8::net6.0::Task5.Tests.Test4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
