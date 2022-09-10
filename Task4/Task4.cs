@@ -117,8 +117,9 @@
         public static void Main(string[] args)
         {
             PrintFrame(5, 3, '+');
-            throw new NotImplementedException(
-                "Вызовите здесь все перечисленные в классе функции, как это сделано в предыдущих заданиях");
+            PrintFrame2(5, 3, '+');
+            Console.WriteLine(Gcd(14, 49));
+            Console.WriteLine(ExpTaylor(11, 3));
         }
     }
 }

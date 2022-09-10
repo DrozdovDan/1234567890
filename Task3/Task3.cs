@@ -115,8 +115,10 @@ namespace Task3
 
         public static void Main(string[] args)
         {
-            throw new NotImplementedException(
-                "Вызовите здесь все перечисленные в классе функции, как это сделано в предыдущих заданиях");
+            Console.WriteLine(F(11));
+            Console.WriteLine(NumberOfDays(2022));
+            Console.WriteLine(Rotate2('С', 1, 2));
+            Console.WriteLine(AgeDescription(45));
         }
     }
 }
