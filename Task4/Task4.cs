@@ -58,19 +58,12 @@
                     }
                     else
                     {
-                        if (j == 0 || j == width - 1)
-                        {
-                            Console.Write(frameChar);
-                        }
-                        else
-                        {
-                            Console.Write(' ');
-                        }
+                        Console.Write((j == 0 || j == width - 1) ? frameChar : ' ');
                     }
                     j++;
                 }
                 Console.Write('\n');
-                i++;
+                ++i;
             }
         }
 

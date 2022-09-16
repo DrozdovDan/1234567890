@@ -51,26 +51,17 @@ namespace Task5
             BigInteger exFibNum = 0;
             if (n == 0)
             {
-                return 0;
+                return n;
             }
-            else
-            {
-                if (n == 1)
-                {
-                    return fibNum;
-                }
-                else
-                {
-                    for (int i = 1; i < n; i++)
-                    {
-                        BigInteger t = fibNum;
-                        fibNum += exFibNum;
-                        exFibNum = t;
-                    }
 
-                    return fibNum;
-                }
+            for (int i = 1; i < n; i++)
+            {
+                BigInteger t = fibNum;
+                fibNum += exFibNum;
+                exFibNum = t;
             }
+
+            return fibNum;
         }
 
         internal static void ComputeFib(string[] args)
